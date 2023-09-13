@@ -1,3 +1,3 @@
 # Jira-Testing
 This repository is for Testing Lab
-Triggered Added
+Bug-4 assigned
