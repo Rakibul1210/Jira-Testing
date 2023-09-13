@@ -1,2 +1,2 @@
 # Jira-Testing
-Ch
+This repository is for Testing Lab
